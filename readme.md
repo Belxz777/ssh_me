@@ -1,4 +1,8 @@
-# ssh-portfolio
+<p align="center">
+  <img src="banner/banner.png" alt="баннер" width="600">
+</p>
+
+# belx-ssh-portfolio
 
 Интерактивное портфолио в терминале, которое открывается по SSH:
 
